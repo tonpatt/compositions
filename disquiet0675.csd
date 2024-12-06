@@ -20,6 +20,7 @@ opcode seg3,k,iiiii
     ; 3-segment envelope
     ; iamp   :  amplitude
     ; iatk   :  attack time
+    ; idur   :  duration
     ; ilev   :  level at decay
     ; idec   :  decay time
     iamp,iatk,idur,ilev,idec xin
