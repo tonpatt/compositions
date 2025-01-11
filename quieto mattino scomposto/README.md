@@ -2,12 +2,16 @@
 
 ## to listen
 
-[soundcloud](https://soundcloud.com/gianantonio-patella/o4-a-1995-study?si=5a94046ae4fc41d59e09df55f9f3d01e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[soundcloud](https://soundcloud.com/gianantonio-patella/quieto-mattino-scomposto?si=1696b416f834489f89e2af4b9a69689f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+```bash
+csound quieto_mattino_scomposto.csd
+```
 
 ## to create the wav file
 
 ```bash
-csound o4.csd
+csound quieto_mattino_scomposto.csd -o test.wav
 ```
 
 ## License

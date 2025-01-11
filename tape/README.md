@@ -2,12 +2,16 @@
 
 ## to listen
 
-[soundcloud](https://soundcloud.com/gianantonio-patella/o4-a-1995-study?si=5a94046ae4fc41d59e09df55f9f3d01e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[soundcloud](https://soundcloud.com/gianantonio-patella/tape?si=be83095de0e54457bec5d77155a48ecb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+```bash
+csound tape.csd
+```
 
 ## to create the wav file
 
 ```bash
-csound o4.csd
+csound tape.csd -o test.wav
 ```
 
 ## License

@@ -2,12 +2,16 @@
 
 ## to listen
 
-[soundcloud](https://soundcloud.com/gianantonio-patella/o4-a-1995-study?si=5a94046ae4fc41d59e09df55f9f3d01e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[soundcloud](https://soundcloud.com/gianantonio-patella/a-cohered-front-disquiet0675?si=eaa2f7a5d998474082d4db8fe1b97b3c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+```bash
+csound disquiet0675.csd
+```
 
 ## to create the wav file
 
 ```bash
-csound o4.csd
+csound disquiet0675.csd -o test.wav
 ```
 
 ## License
