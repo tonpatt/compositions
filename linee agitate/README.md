@@ -4,7 +4,7 @@
 
 [soundcloud](https://soundcloud.com/gianantonio-patella/gianantonio-patella-linee-agitate?si=0ab21c22041346f78d58d34630e8a201&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-## to create the wav file
+## to create the flac file
 
 ```bash
 make
