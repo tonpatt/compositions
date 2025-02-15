@@ -1,5 +1,5 @@
 
-.phony: clean
+.PHONY: clean
 
 linee.flac: section1.flac section2.flac section3.flac
 	csound --format=flac -o linee.flac mixer.orc mixer.sco
