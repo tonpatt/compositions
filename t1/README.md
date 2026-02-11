@@ -36,7 +36,7 @@ make ogg
 
 ## Listen
 
-You can listen to the composition on [SoundCloud](https://www.google.com/search?q=https://..).
+You can listen to the composition on [SoundCloud](https://soundcloud.com/gianantonio-patella/t1x?si=a47885e971f4465bb9311f7fbb8284e7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
 
 ## License
 
