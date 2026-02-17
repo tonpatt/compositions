@@ -87,7 +87,8 @@ endin
 
 </CsInstruments>
 
-<CsScore bin="python drone1.py">
+<CsScore bin="python3 drone1.py">
+;*** If you are using conda, replace 'python3' with 'python'
 
 f1 0 513 7 0 106 1 300 -1 106 0
 f2 0 513 7 1 256 1 0 -1 256 -1

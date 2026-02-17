@@ -29,7 +29,7 @@ make ogg
 
 * **Csound 6.18** or higher
 * **GNU Make**
-* **Python 3.10** or higher
+* **Python 3.12** or higher
 
 ## Listen
 
